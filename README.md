@@ -15,26 +15,29 @@
 
 
 ## Cover Letter Make Up
-- A Cover Letter is a lot like a Taylor Swift song. They all follow a pretty similar structure, they all have the same basic themes, just changing the words. They shouldn't be too long, and shouldn't veer too far outside of their basic format.
+- A Cover Letter is a lot like a pop song. They all follow a pretty similar structure, they all have the same basic themes, just changing the words. They shouldn't be too long, and shouldn't veer too far outside of their basic format.
+  
+- As we have said, you may have multiple drafts of your letters saved for you to submit for different jobs. You may need to change up a few of the details, but the format is fairly standard.
 
-- Here is the basic structure of a Cover Letter, which we will break down line by line in the next section
+- Here is the basic structure of a Cover Letter, which we will break down line by line.
+
+- We can show you this make up, you'll need to actually fill in the details
 
 ### Part 1 - Overview 
 
 
 **Introduction Greeting**
- - "I'm in the room, it's a typical Tuesday night"
+ - "Dear Sir or Madam", "To whom it may concern", "Hello there",
+ - This introduction is entirely up to you, and the tone you want to set for the remainder of the lesson
 
 **Paragraph 1 - About You**
- - "If you could see that I'm the one who understands you"
+
 
 **Paragraph 2 - About the Company**
-- "Been here all along, so why can't you see?"
+
 
 **Paragraph 3 - Why you'd be a good fit for the role**
-- "Can't you see? You belong with me"
 
 **Paragraph 4 - Closing**
-- "I know your favorite songs and you tell me 'bout your dreams"
 
 
