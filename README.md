@@ -12,3 +12,20 @@
 - If you are not willing to put the effort in to write the 100 or so words that make up a cover letter, interviewers and readers can assume that you will not put the effort in to actually do the work the job entails. Which means you may be starting off the application process on Strike 1. You may think this is a way to save time, it is actually a way to make you look like a weaker candidate.
 
 
+## Cover Letter Make Up
+- A Cover Letter is a lot like a Taylor Swift song. They all follow a pretty similar structure, they all have the same basic themes, just changing the words. They shouldn't be too long, and shouldn't veer too far outside of their basic format.
+
+- Here is the basic structure of a Cover Letter, which we will break down line by line in the next section
+
+### Part 1 - Introduction 
+
+
+
+**Paragraph 1 - About You**
+ - "If you could see that I'm the one who understands you"
+
+**Paragraph 2 - About the Company**
+- "Been here all along, so why can't you see?"
+
+**Paragraph 3 - Why you'd be a good fit for the role**
+- "Can't you see? You belong with me"
