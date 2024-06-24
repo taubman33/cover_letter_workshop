@@ -1,5 +1,7 @@
 # Cover Letter  Workshop
 
+##  Introduction
+
 - Composing a cover letter is an integral part of your next journey - beginning the job application process and entering the professional work force.
 
 - It is likely that you will have multiple drafts and versions of cover letters to use for the different types of positions you apply for (Dev vs Solutions, Programmer vs Manager, Front End vs Back End...)
@@ -17,9 +19,11 @@
 
 - Here is the basic structure of a Cover Letter, which we will break down line by line in the next section
 
-### Part 1 - Introduction 
+### Part 1 - Overview 
 
 
+**Introduction Greeting**
+ - "I'm in the room, it's a typical Tuesday night"
 
 **Paragraph 1 - About You**
  - "If you could see that I'm the one who understands you"
@@ -29,3 +33,8 @@
 
 **Paragraph 3 - Why you'd be a good fit for the role**
 - "Can't you see? You belong with me"
+
+**Paragraph 4 - Closing**
+- "I know your favorite songs and you tell me 'bout your dreams"
+
+
