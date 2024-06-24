@@ -21,23 +21,34 @@
 
 - Here is the basic structure of a Cover Letter, which we will break down line by line.
 
-- We can show you this make up, you'll need to actually fill in the details
+- We can show you this make up, *you'll* need to actually fill in the details!
 
-### Part 1 - Overview 
+### Overview 
 
 
 **Introduction Greeting**
  - "Dear Sir or Madam", "To whom it may concern", "Hello there",
- - This introduction is entirely up to you, and the tone you want to set for the remainder of the lesson
+ - This introduction is entirely up to you, and the tone you want to set for the remainder of the letter
+ - Don't put *too much* into this, the simpler and more direct this is, the better
 
 **Paragraph 1 - About You**
 
-
+ - A brief of history about you and what lead you in your career path to this job
+ - A bit about your education and work experience (this can be one long sentence, or one sentence for each)
+ - Something interesting about yourself that can set you apart from others - volunteer experience, or a personal connection to the role
+    
 **Paragraph 2 - About the Company**
 
+ - What draws you to this role, and this company (you'll want to do 5 minutes of research to boost this up)
+ - How does this company/team relate to your life and why do you want to join them?
+ - Use a few words from the posted Job Description here to connect yourself to the role
 
 **Paragraph 3 - Why you'd be a good fit for the role**
-
+ - How do your skills/experiences relate to the role and job
+ - How does your ethos relate to that of the company
+ - Where do you want to actualize yourself in 5 years, how will your work in this company get you there
+ - What can you do to help the company in this time
+   
 **Paragraph 4 - Closing**
 
 
